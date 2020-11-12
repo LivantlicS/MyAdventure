@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c4c2b58-f0d7-4e0c-9759-a84755307c2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MyAdventure.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyAdventure.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hprK0uVziPOoS8XFfbNSJlH8a9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4c2b58-f0d7-4e0c-9759-a84755307c2b" name="Default Changelist" comment="" />
+      <created>1600718814528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600718814528</updated>
+      <workItem from="1600718818577" duration="3221000" />
+      <workItem from="1600843758022" duration="3242000" />
+      <workItem from="1600859330382" duration="3983000" />
+      <workItem from="1600932453877" duration="3481000" />
+      <workItem from="1601545053082" duration="2769000" />
+      <workItem from="1601881879599" duration="2912000" />
+      <workItem from="1601962987248" duration="1476000" />
+      <workItem from="1602336519241" duration="1213000" />
+      <workItem from="1602505391166" duration="1583000" />
+      <workItem from="1602943184263" duration="10426000" />
+      <workItem from="1603736466750" duration="1567000" />
+      <workItem from="1603738376453" duration="1769000" />
+      <workItem from="1603740527046" duration="1927000" />
+      <workItem from="1603742724014" duration="36000" />
+      <workItem from="1603744949212" duration="629000" />
+      <workItem from="1603831806183" duration="1764000" />
+      <workItem from="1603833628355" duration="212000" />
+      <workItem from="1603892772887" duration="2451000" />
+      <workItem from="1603896418925" duration="1774000" />
+      <workItem from="1603898254204" duration="1779000" />
+      <workItem from="1603900655762" duration="611000" />
+      <workItem from="1604246298323" duration="45000" />
+      <workItem from="1604246692537" duration="25000" />
+      <workItem from="1604248104615" duration="618000" />
+      <workItem from="1604249304433" duration="9000" />
+      <workItem from="1604249336765" duration="4426000" />
+      <workItem from="1604345422603" duration="6535000" />
+      <workItem from="1604509513718" duration="1934000" />
+      <workItem from="1604518173692" duration="8682000" />
+      <workItem from="1604559215440" duration="3201000" />
+      <workItem from="1604583860586" duration="781000" />
+      <workItem from="1604597978375" duration="11656000" />
+      <workItem from="1604698910223" duration="6225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="77" key="#Inspection_severity" timestamp="1604704582602">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="345" y="77" key="#Inspection_severity/0.0.1536.864@0.0.1536.864" timestamp="1604704582602" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604524510834">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1604524510833" />
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604246312255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1604246312255" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1604249791599">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604249791599" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1603741893449">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1603741893449" />
+    <state x="431" y="181" key="search.everywhere.popup" timestamp="1604347603886">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1604347603886" />
+    <state x="491" y="345" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604560113851">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="491" y="345" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.864@0.0.1536.864" timestamp="1604560113851" />
+  </component>
+</project>
